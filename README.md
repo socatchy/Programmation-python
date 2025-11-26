@@ -1,4 +1,4 @@
-Voici des projets académiques en langage python. Il s'agit d'utiliser le langage pour résoudre des problèmes mathématiques.
+Voici des projets académiques en langage python. Il s'agit d'utiliser le langage pour résoudre des problèmes mathématiques plus ou moins complexes.
 
 1.Manipulation de listes
 
