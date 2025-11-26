@@ -8,7 +8,7 @@ Voici des projets académiques en langage python. Il s'agit d'utiliser le langag
 
 4.Intégration numérique
 
-5.Décomposition LU
+5.Décomposition LU et permutations
 
 6.Calcul de zéro de fonctions
 
