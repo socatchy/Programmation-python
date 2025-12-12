@@ -1,4 +1,4 @@
-Voici des petits projets académiques en langage python que j'ai effectué en licence, pour le cours de Julien Guillod, Sorbonne Université. Il s'agit d'utiliser le langage pour résoudre des problèmes mathématiques plus ou moins complexes.
+Voici les projets académiques en langage python que j'ai effectué en licence, pour le cours de Julien Guillod, Sorbonne Université. Il s'agit d'utiliser le langage pour résoudre des problèmes mathématiques plus ou moins complexes.
 
 1.Manipulation de listes
 
